@@ -10,7 +10,7 @@
  <li><a target="_blank" href="https://github.com/manjunath5496/Medical-Image-Segmentation-Papers/blob/master/med(2).pdf" style="text-decoration:none;">Brain Tumor Segmentation with Deep Neural Networks</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Medical-Image-Segmentation-Papers/blob/master/med(3).pdf" style="text-decoration:none;">U-Net: Convolutional Networks for Biomedical Image Segmentation</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Medical-Image-Segmentation-Papers/blob/master/med(4).pdf" style="text-decoration:none;">Ecient Multi-Scale 3D CNN with fully connected CRF for Accurate Brain Lesion Segmentation</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Medical-Image-Segmentation-Papers/blob/master/med(4).pdf" style="text-decoration:none;">Efficient Multi-Scale 3D CNN with fully connected CRF for Accurate Brain Lesion Segmentation</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Medical-Image-Segmentation-Papers/blob/master/med(5).pdf" style="text-decoration:none;">V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Medical-Image-Segmentation-Papers/blob/master/med(6).pdf" style="text-decoration:none;">3D fully convolutional networks for subcortical segmentation in MRI: A large-scale study</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Medical-Image-Segmentation-Papers/blob/master/med(7).pdf" style="text-decoration:none;">CNN-based Segmentation of Medical Imaging Data</a></li>
